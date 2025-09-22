@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 Student at the University of Hradec Králové – Faculty of Informatics and Management<br>🏎️ Passionate about technology and innovation in motorsport<br>🚀 Enthusiast of modern technologies and their real-world impact
+👨‍💻 Junior Developer | Master's student in Systems Engineering  
+Currently looking for new opportunities in software development.  
+Stack: Java | Python | SQL | Git 
 
 
 ## 🌐 Socials:
