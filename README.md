@@ -1,7 +1,9 @@
 # 💫 About Me:
-👨‍💻 Junior Developer | Master's student in Systems Engineering  
-Currently looking for new opportunities in software development.  
-Stack: Java | Python | SQL | Git 
+
+🚀👨‍💻 Junior Developer | Master's student in Systems Engineering  
+🔍 Currently looking for new opportunities in software development  
+🛠️ Stack: Java | Python | SQL | Git  
+
 
 
 ## 🌐 Socials:
