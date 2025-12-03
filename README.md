@@ -2,7 +2,7 @@
 
 🚀👨‍💻 Junior Developer | Master's student in Information technology  
 🔍 Currently working as software developer intern in Quadient 
-🛠️ Currently using: C# | TypeScript |  
+🛠️ Currently using: C# | TypeScript  
 
 
 
