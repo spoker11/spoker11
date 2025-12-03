@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🚀👨‍💻 Junior Developer | Master's student in Systems Engineering  
-🔍 Currently looking for new opportunities in software development  
-🛠️ Stack: Java | Python | SQL | Git  
+🚀👨‍💻 Junior Developer | Master's student in Information technology  
+🔍 Currently working as software developer intern in Quadient 
+🛠️ Currently using: C# | TypeScript |  
 
 
 
